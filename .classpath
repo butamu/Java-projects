@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AnagramApp/src"/>
+	<classpathentry kind="src" path="BinaryTree/src"/>
+	<classpathentry kind="src" path="DoubleLinkedList/src"/>
+	<classpathentry kind="src" path="FirstLastList/src"/>
+	<classpathentry kind="src" path="HashTable/src"/>
+	<classpathentry kind="src" path="HuffmanTree/src"/>
+	<classpathentry kind="src" path="InsertionSortApp/src"/>
+	<classpathentry kind="src" path="InsertSort/src"/>
+	<classpathentry kind="src" path="Iteration1/src"/>
+	<classpathentry kind="src" path="KnapsackProblem1/src"/>
+	<classpathentry kind="src" path="LinkedListApp/src"/>
+	<classpathentry kind="src" path="ListIterator/src"/>
+	<classpathentry kind="src" path="MergeSort/src"/>
+	<classpathentry kind="src" path="NetBeansProjects/JavaApplication1/src"/>
+	<classpathentry kind="src" path="NetBeansProjects/JavaApplication3/src"/>
+	<classpathentry kind="src" path="NetBeansProjects/SelectionSortApp/src"/>
+	<classpathentry kind="src" path="OrderedListApp/src"/>
+	<classpathentry kind="src" path="PartitioningApp/src"/>
+	<classpathentry kind="src" path="PriorityQueueApp/src"/>
+	<classpathentry kind="src" path="QueueApp/src"/>
+	<classpathentry kind="src" path="RecursivePower/src"/>
+	<classpathentry kind="src" path="SeperateChaining/src"/>
+	<classpathentry kind="src" path="ShellSortApp/src"/>
+	<classpathentry kind="src" path="StackApp/src"/>
+	<classpathentry kind="src" path="StringParser/src"/>
+	<classpathentry kind="src" path="Tree234/src"/>
+	<classpathentry kind="output" path="AnagramApp/bin"/>
+</classpath>
